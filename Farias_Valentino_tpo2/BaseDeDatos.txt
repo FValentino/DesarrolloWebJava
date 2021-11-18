@@ -1,0 +1,3 @@
+Nombre: peluqueriacanina
+Usuario: Valentino
+Contraseña: 386060
